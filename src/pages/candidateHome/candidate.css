@@ -1,0 +1,48 @@
+.ipt {
+	appearance: none;
+	border: none;
+	outline: none;
+	border-bottom: .2em solid #505aeb;
+	background: rgba(#505aeb, .2);
+	border-radius: .2em .2em 0 0;
+	padding: .4em;
+	color: #505aeb;
+}
+
+
+.candidate-home h1{
+    color: steelblue;
+    /* justify-content: center; */
+    margin-left: 38%;
+    margin-top: 2%;
+}
+
+.cand-header {
+    margin: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ref-heading {
+    color: darkmagenta;
+}
+
+.wrap {
+    width: 90%;
+    /* background-color: aqua; */
+    display: flex;  
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 15px;
+}
+
+.card {
+    margin: 15px;
+}
+
+.card-container h3{
+    margin: 10px;
+    color: teal;
+}
+
